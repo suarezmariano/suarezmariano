@@ -3,10 +3,10 @@ Te cuento un poquito de mi historia: Luego de educarme y desarrollar mi carrera 
 :metal:
 
 - 📫 Escribime: 
-- <a href="mailto:marianohectorsuarez@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/mariano-suarez-/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:marianohectorsuarez@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/mariano-suarez-/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Visita mi Portfolio  
-- [portfolio-marianosuarez.web.app](https://portfolio-marianosuarez.web.app)
+[https://portfolio-marianosuarez.web.app](https://portfolio-marianosuarez.web.app)
 
 ## Skills
 <p>
