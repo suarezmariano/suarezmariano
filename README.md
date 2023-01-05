@@ -1,4 +1,4 @@
-Hi 👋 My name is Mariano Suarez
+Hola 👋 soy Mariano Suarez
 ===============================
 
 Web Developer
@@ -6,10 +6,10 @@ Web Developer
 
 Te cuento un poquito de mi historia: Luego de educarme y desarrollar mi carrera laboral en el campo de la Administración, liderando equipos y siendo responsable de varios sectores, decidí darle un giro a mi vida y dedicarme a lo que siempre me apasionó que es la tecnología y la programación. 🤘
 
-* 🌍  I'm based in Buenos Aires, Argentina
-* 🖥️  See my portfolio at [https://portfolio-marianosuarez.web.app](http://portfolio-marianosuarez.web.app)
-* ✉️  You can contact me at [marianohectorsuarez@gmail.com](mailto:marianohectorsuarez@gmail.com)
-* 🧠  I'm learning Backend and C#
+* 🌍  Soy de Buenos Aires, Argentina
+* 🖥️  Aquí podes ver mi portfolio [https://portfolio-marianosuarez.web.app](http://portfolio-marianosuarez.web.app)
+* ✉️  Podes escribirme a [marianohectorsuarez@gmail.com](mailto:marianohectorsuarez@gmail.com)
+* 🧠 Actualmente estoy aprendiendo Backend eb Coderhouse Argentina.
 
 ### Skills
 
