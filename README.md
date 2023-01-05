@@ -9,7 +9,7 @@ Te cuento un poquito de mi historia: Luego de educarme y desarrollar mi carrera 
 * 🌍  Soy de Buenos Aires, Argentina
 * 🖥️  Aquí podes ver mi portfolio [https://portfolio-marianosuarez.web.app](http://portfolio-marianosuarez.web.app)
 * ✉️  Podes escribirme a [marianohectorsuarez@gmail.com](mailto:marianohectorsuarez@gmail.com)
-* 🧠 Actualmente estoy aprendiendo Backend eb Coderhouse Argentina.
+* 🧠 Actualmente estoy aprendiendo Backend en Coderhouse Argentina.
 
 ### Skills
 
