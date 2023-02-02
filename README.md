@@ -1,7 +1,7 @@
 *Hola, soy Mariano!* 👋
 ===============================
 
-Te cuento un poquito de mi historia: Luego de educarme y desarrollar mi carrera laboral en el campo de la Administración de Empresas decidí dedicarme a lo que siempre me apasionó que es la tecnología y la programación. 🤘
+Te cuento un poquito de mi historia: Luego de educarme y desarrollar mi carrera laboral en el campo de la Administración de Empresas, incluso llegando a liderar equipos de diferentes sectores, decidí darle un giro a mi vida y dedicarme a lo que siempre me apasionó que es la tecnología y la programación. 🤘
 Soy de Buenos Aires, Argentina 🌍, y actualmente estoy aprendiendo Backend en Coderhouse Argentina. 🧠
 
 
