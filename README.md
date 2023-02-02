@@ -11,10 +11,6 @@ Te cuento un poquito de mi historia: Luego de educarme y desarrollar mi carrera 
 * ✉️  Podes escribirme a [marianohectorsuarez@gmail.com](mailto:marianohectorsuarez@gmail.com)
 * 🧠 Actualmente estoy aprendiendo Backend en Coderhouse Argentina.
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/suarezmariano" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mariano-suarez-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 ### Skills
 
 <p align="left">
