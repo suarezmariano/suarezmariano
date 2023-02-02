@@ -5,11 +5,8 @@ Web Developer
 -------------
 
 Te cuento un poquito de mi historia: Luego de educarme y desarrollar mi carrera laboral en el campo de la Administración, liderando equipos y siendo responsable de varios sectores, decidí dedicarme a lo que siempre me apasionó que es la tecnología y la programación. 🤘
+* Soy de Buenos Aires, Argentina 🌍, y actualmente estoy aprendiendo Backend en Coderhouse Argentina. 🧠
 
-* 🌍  Soy de Buenos Aires, Argentina
-* 🖥️  Aquí podes ver mi portfolio [https://portfolio-marianosuarez.web.app](http://portfolio-marianosuarez.web.app)
-* ✉️  Podes escribirme a [marianohectorsuarez@gmail.com](mailto:marianohectorsuarez@gmail.com)
-* 🧠 Actualmente estoy aprendiendo Backend en Coderhouse Argentina.
 
 ### Skills
 
